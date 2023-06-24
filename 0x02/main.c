@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main- tester on branch 0x02
+ * Return: 0
  */
 int main(void)
 {
