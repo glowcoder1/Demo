@@ -10,6 +10,6 @@ int main(void)
 	int i;
 
 	for(i = 0; i < 3; i++)
-		printf("This is a demo");
+		printf("%d", i + 1);
 	return (0);
 }
